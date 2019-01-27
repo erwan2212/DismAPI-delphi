@@ -1,0 +1,8 @@
+*.exe
+*.txt
+*.zip
+*.dll
+*.dcu
+*.~*
+*.map
+*.log
